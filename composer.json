@@ -4,15 +4,15 @@
     "type": "library",
     "version": "2.0.6",
     "require": {
-        "laravel/framework": ">=5",
-        "illuminate/support": ">=5",
-        "masih/youtubedownloader": "~2.9.0",
-        "athlon1600/youtube-downloader": "^1.0",
+        "laravel/framework": "dev-master",
+        "illuminate/support": "dev-master",
+        "masih/youtubedownloader":"dev-master",
+        "athlon1600/youtube-downloader": "dev-master",
         "norkunas/youtube-dl-php": "dev-master"
     },
     "require-dev": {
-        "vlucas/phpdotenv": "^2.4",
-        "orchestra/testbench": "^3.4"
+        "vlucas/phpdotenv": "dev-master",
+        "orchestra/testbench": "dev-master"
     },
     "keywords": [
         "devtube",
