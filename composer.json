@@ -4,7 +4,7 @@
     "type": "library",
     "version": "2.0.6",
     "require": {
-        "laravel/framework": "dev-master",
+        "laravel/framework": "^8.12",
         "illuminate/support": "dev-master",
         "masih/youtubedownloader":"dev-master",
         "athlon1600/youtube-downloader": "dev-master",
